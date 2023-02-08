@@ -5,8 +5,12 @@ body {
   
   body {
     font-family: Georgia;
-    background-color: burlywood;
-   
+    background: url("bg.jpeg");
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
   }
   h2 {
     font-family: Arial;
